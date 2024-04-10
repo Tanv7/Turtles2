@@ -5,11 +5,11 @@ public class Turtles {
         int dexterity;
         String weapon;
 
-        public class Penguin {
+        public class Turtle {
 
                 @Override
                 public String toString() {
-                        return "Penguin{" +
+                        return "Turtle{" +
                                 "name='" + name + '\'' +
                                 ", color='" + color + '\'' +
                                 ", dexterity=" + dexterity +
